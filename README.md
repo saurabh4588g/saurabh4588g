@@ -16,6 +16,8 @@
 <br>
 **Published Paper** <br>
 ✔️ https://www.researchgate.net/publication/354035096_Creating_and_Studying_Graphological_Agent_using_Artificial_Intelligence
+<br>
+<br>
 
 
 
