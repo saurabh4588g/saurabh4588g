@@ -7,15 +7,17 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Japnit Singh**, currently pursuing my bachelors from Delhi Technological University in *Mathematics and Computing*. <br>
+✔️ I am **Saurabh Jha**, currently pursuing my bachelors from Vellore Institute of Technology in *Computer Science and Engineering*. <br>
 
-✔️ I am interested in development. I also enjoy doing competitive programming. <br>
+✔️ I am interested in Machine Learning. I also enjoy doing competitive programming. <br>
 
-✔️ I have experience in FULL stack web development and Deep Learning.<br>
-
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+✔️ I have experience in Machine Learning and Deep Learning.<br>
 
 <br>
+**Published Paper** <br>
+✔️ https://www.researchgate.net/publication/354035096_Creating_and_Studying_Graphological_Agent_using_Artificial_Intelligence
+
+
 
 
 <!-- NOMINATION FOR STAR GIT LINK CODE
@@ -23,9 +25,9 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-JapnitSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/japnitsingh/)](https://www.linkedin.com/in/japnitsingh/)
+[![Linkedin Badge](https://img.shields.io/badge/-SaurabhJha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-jha-8a748720b/)](https://www.linkedin.com/in/saurabh-jha-8a748720b/)
 
-[![Gmail Badge](https://img.shields.io/badge/-japnit2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:japnit2012@gmail.com)](mailto:japnit2012@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-saurabhkmr.jha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saurabhkmr.jha@gmail.com)](mailto:saurabhkmr.jha@gmail.com)
 
 ---
 
@@ -35,29 +37,29 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&theme=algolia&langs_count=7&exclude_repo=Handwritten_digits,Tak2-IIIT-DELHI)](https://github.com/japnit01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh4588g&count_private=true&theme=algolia&langs_count=7)](https://github.com/saurabh4588g/github-readme-stats)
  
  ---
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/japnit01/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/saurabh4588g/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01&count_private=true&show_icons=true&theme=algolia)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=saurabh4588g&count_private=true&show_icons=true&theme=algolia)  
  
  
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=japnit01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=algolia)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabh4588g&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=algolia)](https://git.io/streak-stats)       
          
 
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Japnit's github activity graph](https://activity-graph.herokuapp.com/graph?username=japnit01&theme=redical)](https://github.com/japnit01/github-readme-activity-graph)
+[![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabh4588g&theme=redical)](https://github.com/saurabh4588g/github-readme-activity-graph)
 
   
 
